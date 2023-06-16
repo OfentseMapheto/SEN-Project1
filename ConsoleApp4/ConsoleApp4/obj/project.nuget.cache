@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IzeH3j70rv06GlPuFGwNfG98Iou66IVfogViZojeuVIS1f7CmzSeYcUKpFhlsKvyjXIiCqq7sD2/3sLTivVSkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
